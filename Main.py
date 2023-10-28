@@ -1,7 +1,6 @@
 import requests as r
 import pandas as pd
 import psycopg2 as ps
-import datetime
 
 
 class DBConnection:
